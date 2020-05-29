@@ -3,3 +3,7 @@ events.out.tfevents.1589102724.787a0601ca76 filter=lfs diff=lfs merge=lfs -text
 events.out.tfevents.1589108412.bdc150b4655d filter=lfs diff=lfs merge=lfs -text
 events.out.tfevents.1589114520.bdc150b4655d filter=lfs diff=lfs merge=lfs -text
 events.out.tfevents.1589124673.bdc150b4655d filter=lfs diff=lfs merge=lfs -text
+model.ckpt-101000.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+model.ckpt-101569.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+model.ckpt-102138.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+model.ckpt-99862.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
