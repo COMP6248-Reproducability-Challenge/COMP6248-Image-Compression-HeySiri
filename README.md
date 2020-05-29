@@ -5,7 +5,7 @@ This project reproduced the base model of the paper ["Context-adaptive Entropy M
 
 ### Reconstruction Sample
 
-
+![image](https://github.com/COMP6248-Reproducability-Challenge/COMP6248-Image-Compression-HeySiri/blob/master/reconstruction%20sample/sample.jpg)
 
 
 
