@@ -3,6 +3,12 @@ This project reproduced the base model of the paper ["Context-adaptive Entropy M
 
 ##### Team Name : HeySiri
 
+### Reconstruction Sample
+
+
+
+
+
 ## Installation
 
 This project can only run on Linux and Mac OS, not on Windows, because the tensorflow compression package cannot be installed in the Windows environment.
@@ -42,3 +48,4 @@ python model.py --checkpoint_dir train compress  pictures/image4.jpg compressed.
 python model.py decompress compressed.tfci reconstruction.png
 
 ```
+
